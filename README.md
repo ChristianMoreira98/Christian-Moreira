@@ -1,6 +1,6 @@
 ## Olá, eu sou o Christian Moreira, estudante e desenvolvedor na área de tecnologia!
 
-- 🖥️ Estudando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (1º Semestre)
+- 🖥️ Estudando Análise e Desenvolvimento de Sistemas na FAM (1º Semestre)
 - 👨‍💼 Atualmente procurando emprego na área
 
 ### 🤖 Linguagens e Tecnologias
@@ -61,6 +61,15 @@
     align="left" 
     alt="Python" 
     title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
