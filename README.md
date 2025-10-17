@@ -75,7 +75,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianMoreira98&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    
   />
 
 
